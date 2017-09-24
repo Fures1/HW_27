@@ -4,8 +4,8 @@
     <groupId>core</groupId>
     <artifactId>HW_27</artifactId>
     <packaging>jar</packaging>
-    <!--   <version>1.0</version>  -->
-    <version>${build.version}</version>
+    <version>1.0</version>
+   <!-- <version>${build.version}</version> -->
     <name>HW_27</name>
     <url>http://maven.apache.org</url>
     <dependencies>
